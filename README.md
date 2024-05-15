@@ -57,8 +57,8 @@ Comprehensive testing and integration to ensure a seamless user experience and r
 ### Steps
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/chatapp.git
-   cd chatapp
+   git clone https://github.com/yourusername/chitzy-main.git
+   cd chitzy-main
 2. **Run the Application**:
    ```bash
    npm run dev
