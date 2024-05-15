@@ -8,7 +8,7 @@ Welcome to Chitzy, a revolutionary chat application designed to redefine user ex
 - [Modules](#modules)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
+- [Contributors](#contributors)
 - [License](#license)
 - [Contact](#contact)
 
@@ -62,3 +62,16 @@ Comprehensive testing and integration to ensure a seamless user experience and r
 2. **Run the Application**:
    ```bash
    npm run dev
+
+## Contributors
+
+- Nishant Bharwani
+- Nitya Singh
+- Nishtha Sainani
+
+## License
+- This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+- For any inquiries or feedback, please contact us at support@chatapp.com.
+
