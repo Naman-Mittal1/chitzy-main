@@ -73,5 +73,5 @@ Comprehensive testing and integration to ensure a seamless user experience and r
 - This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Contact
-- For any inquiries or feedback, please contact us at support@chatapp.com.
+- For any inquiries or feedback, please contact us at mittalnaman08@gmail.com
 
