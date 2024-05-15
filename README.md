@@ -1,6 +1,6 @@
-# ChatApp - Transforming Social Communication
+# Chitzy - Talk and Feel Better
 
-Welcome to ChatApp, a revolutionary chat application designed to redefine user experience with innovative features beyond basic messaging. Built using modern technologies, ChatApp integrates unique functionalities to provide an unparalleled social engagement platform.
+Welcome to Chitzy, a revolutionary chat application designed to redefine user experience with innovative features beyond basic messaging. Built using modern technologies, ChatApp integrates unique functionalities to provide an unparalleled social engagement platform.
 
 ## Table of Contents
 - [Features](#features)
@@ -13,20 +13,16 @@ Welcome to ChatApp, a revolutionary chat application designed to redefine user e
 - [Contact](#contact)
 
 ## Features
-- **Virtual Date Planner**: Plan virtual dates seamlessly within the app.
-- **Confession Booths**: Share anonymously in designated spaces.
-- **Social Media Integration**: Connect and engage across multiple platforms.
-- **Real-time Communication**: Enabled by WebRTC for voice/video chats and Socket.io for live messaging.
-- **Customization**: Dark mode, emojis, profiles, and more for personalized experience.
-- **Interactive Elements**: Pick-up lines, truth or dare, chatbots, and virtual gifts.
-- **Group Chats and Notifications**: Modern social experience with advanced group functionalities.
+- **Random Chat**: Connect with strangers and share your feelings.
+- **Real-time Communication**: Enabled by Socket.io for live messaging.
+- **ChatRooms**: Create chatrooms to add your friends.
+- **Interactive Elements**: Create fun chatrooms like Pick-up lines, truth or dare, chatbots, and virtual gifts.
 - **Security and Privacy**: End-to-end encryption ensures your conversations are private and secure.
 
 ## Technology Stack
-- **Frontend**: ReactJS
+- **Frontend**: Next.js, ReactJS
 - **Backend**: NodeJS
-- **Real-time Communication**: Socket.io, WebRTC
-- **Database**: MongoDB
+- **Real-time Communication**: Socket.io
 - **Security**: End-to-end encryption
 
 ## Modules
@@ -56,7 +52,6 @@ Comprehensive testing and integration to ensure a seamless user experience and r
 
 ### Prerequisites
 - Node.js
-- MongoDB
 - npm (Node Package Manager) or yarn
 
 ### Steps
